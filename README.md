@@ -9,7 +9,7 @@ It likely works on all Kindle devices running firmware >= 5.16.4. In any case, t
 Known working:
 - KS (5.18.5.0.1 && 5.17.3)
 - PW6 (5.18.1)
-- PW5 (5.17.0)
+- PW5 (5.17.0, 5.18.1, 5.16.8)
 - PW4 (5.17.1.0.3)
 - KT5 (5.17.1.0.3)
 - KOA3 (5.17.1.0.3)
